@@ -1,0 +1,6 @@
+Nama: anas
+Umur: 19
+Alamat: jl batur perumahan puri mujur no.215
+Nama: haland
+Umur: 20
+Alamat: pluto
